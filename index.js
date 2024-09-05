@@ -23,7 +23,7 @@ async function searchTextInPDF(pdfPath, searchText) {
   }
 }
 
-const pdfPath = './ssc.pdf';
-const searchText = '10014131816';
+const pdfPath = './pdf file.pdf';
+const searchText = 'text';
 
 searchTextInPDF(pdfPath, searchText);
