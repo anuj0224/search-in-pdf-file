@@ -41,7 +41,7 @@ async function searchTextInPDF(pdfPath, searchText) {
   }
 }
 
-const pdfPath = './ssc.pdf'; 
-const searchText = '10014131816'; 
+const pdfPath = './your pdf file name.pdf'; 
+const searchText = 'your search text'; 
 
 searchTextInPDF(pdfPath, searchText);
